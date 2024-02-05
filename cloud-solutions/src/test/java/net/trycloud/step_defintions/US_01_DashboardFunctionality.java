@@ -60,7 +60,8 @@ public class US_01_DashboardFunctionality {
             default:
                 System.out.println("element not found");
         }
-        elementToClick.click();
+        Objects.requireNonNull(elementToClick).click();
+       // elementToClick.click();
     }
 
 
