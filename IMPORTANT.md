@@ -10,10 +10,10 @@
 
 - Right click on it
 - Select **Mark Directory as**
-- Select ** Test Sources Root**
+- Select **Test Sources Root**
 
 ### 3. If you are not able to see resources folder with special icon
 
 - Right click on it
 - Select **Mark Directory as**
-- Select ** Test Resources Root**
+- Select **Test Resources Root**
